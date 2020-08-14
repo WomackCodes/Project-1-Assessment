@@ -7,7 +7,7 @@ html, body {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  margin-top: 50%;
+
 }
 
 .bottomContainer {
@@ -19,7 +19,7 @@ html, body {
     width: 100px;
     cursor: pointer;
 }
-#inputBox{ 
+#span { 
     width: 100px;
     height: 50px;
     border-color: gray;
